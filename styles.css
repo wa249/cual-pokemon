@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+}
+
+.image-container {
+	display: inline-block;
+	vertical-align: top;
+	width: 70%;
+}
+
+.poke-dex {
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+}
